@@ -1,10 +1,10 @@
 export default function Head() {
 	return (
 		<>
-			<title>Expanse Host — High‑Performance Minecraft, VPS & Dedicated Hosting</title>
+			<title>GGNodes.cloud Host — High‑Performance Minecraft, VPS & Discord Bot Hosting</title>
 			<meta
 				name="description"
-				content="Expanse Host delivers fast, reliable Minecraft servers, NVMe VPS, and dedicated/bare metal hosting with enterprise DDoS protection and a global low-latency network."
+				content="GGNodes.cloud delivers fast, reliable Minecraft servers, NVMe VPS, and dedicated/bare metal hosting with enterprise DDoS protection and a global low-latency network."
 			/>
 			<meta
 				name="keywords"
