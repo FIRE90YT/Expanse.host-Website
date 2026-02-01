@@ -55,8 +55,8 @@ const HeroSection = (props: HeroSectionProps = {}) => {
                 >
                     <Link href="/vps" className="inline-flex items-center text-xs sm:text-sm md:text-base text-foreground dark:text-gray-200 font-medium hover:opacity-80 transition-opacity">
                         <svg className="w-4 sm:w-5 md:w-6 text-primary h-4 sm:h-5 md:h-6 mr-1.5 sm:mr-2 flex-shrink-0" stroke="currentColor" fill="currentColor" strokeWidth="0" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M166.4 25.64l-12.8 12.72 160 160.04 12.8-12.8-160-159.96zm-32 95.96L128 128l-6.4 6.4 160 160 12.8-12.8-160-160zm-96.08 32L25.6 166.4l160 160 12.8-12.8-160.08-160zm314.78 86.6l-29.4 84.1-85.4 26 71 54-1.7 89.2 73.2-50.8 84.4 29.1-25.7-85.3 53.8-71.2-89.1-2-51.1-73.1z"></path></svg>
-                        <span className="hidden xs:inline">New VPS lineup released!</span>
-                        <span className="xs:hidden">New VPS lineup!</span>
+                        <span className="hidden xs:inline">New Ovh lineup released!</span>
+                        <span className="xs:hidden">New Ovh gameserver!</span>
                         <span className='underline ml-1 text-accent'> Get started</span>
                     </Link>
                     <svg stroke="currentColor" fill="currentColor" className="w-2.5 sm:w-3 h-2.5 sm:h-3 text-primary/60 flex-shrink-0" strokeWidth="0" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"></path></svg>
@@ -68,7 +68,7 @@ const HeroSection = (props: HeroSectionProps = {}) => {
                     transition={{ duration: 0.7, delay: 0.2, ease: "easeOut" }}
                     className="text-foreground text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl leading-[1.1] font-bold mb-4 sm:mb-6 md:mb-8"
                 >
-                    Hosting perfected, <br className="hidden xs:block" />that&apos;s <span className='relative inline-block text-accent'>
+                    GGNodes.cloud perfected, <br className="hidden xs:block" />that&apos;s <span className='relative inline-block text-accent'>
                         Expanse
 
                     </span>
@@ -116,8 +116,8 @@ const HeroSection = (props: HeroSectionProps = {}) => {
                             href={exploreDedicatedLink}
                             className="w-full sm:w-auto flex items-center justify-center px-4 py-2.5 sm:py-3 bg-transparent text-foreground font-semibold hover:text-accent transition-colors text-sm sm:text-base"
                         >
-                            <span className="hidden sm:inline">Explore dedicated servers</span>
-                            <span className="sm:hidden">Dedicated servers</span>
+                            <span className="hidden sm:inline">Explore minecraft servers</span>
+                            <span className="sm:hidden">minecraft servers</span>
                             <svg
                                 className="ml-2 w-4 sm:w-5 h-4 sm:h-5"
                                 stroke="currentColor"
