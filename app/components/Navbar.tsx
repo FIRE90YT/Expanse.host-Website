@@ -145,7 +145,7 @@ const Navbar = () => {
                                     <span className="hidden sm:inline">Limited Time Offer: </span>Save 15% off on Game Servers
                                 </span>
                                 <span className="bg-white/20 px-2 sm:px-3 py-0.5 sm:py-1 rounded-md text-[10px] sm:text-xs font-bold">
-                                    3UX37XLVPL
+                                    GGNodes20
                                 </span>
                             </div>
                             <button
