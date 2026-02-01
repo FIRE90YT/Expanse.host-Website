@@ -6,16 +6,13 @@ import { useCurrency, Currency, currencySymbols } from "../contexts/CurrencyCont
 import { FiChevronDown, FiGlobe } from "react-icons/fi";
 
 const currencies: { code: Currency; name: string; symbol: string }[] = [
+   { code: 'INR', name: 'Indian Rupee', symbol: '₹' },
     { code: 'USD', name: 'US Dollar', symbol: '$' },
     { code: 'EUR', name: 'Euro', symbol: '€' },
-    { code: 'INR', name: 'Indian Rupee', symbol: '₹' },
     { code: 'JPY', name: 'Japanese Yen', symbol: '¥' },
-    { code: 'CNY', name: 'Chinese Yuan', symbol: '¥' },
-    { code: 'PHP', name: 'Philippine Peso', symbol: '₱' },
-    { code: 'KRW', name: 'South Korean Won', symbol: '₩' },
-    { code: 'RUB', name: 'Russian Ruble', symbol: '₽' },
-    { code: 'AUD', name: 'Australian Dollar', symbol: 'A$' },
-    { code: 'CAD', name: 'Canadian Dollar', symbol: 'C$' },
+
+
+
 ];
 
 export default function CurrencySelector() {
